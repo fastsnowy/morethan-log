@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f425.svg" />
           <link
             rel="apple-touch-icon"
             sizes="192x192"
